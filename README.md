@@ -16,7 +16,7 @@ This exercise on building Blockchain Ledgers demonstrates usage of the Streamlit
 
 ### Blockchain Validation Result in Terminal 
 
-![image info](./Imgaes/terminal_ss.png)
+![image info](./Images/terminal_ss.png)
 
 ---
 
